@@ -13,3 +13,10 @@ export const Produtos = styled.ul`
     grid-template-columns: 1fr;
   }
 `
+
+export const Loading = styled.div`
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  font-size: 24px;
+`
